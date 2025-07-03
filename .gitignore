@@ -211,3 +211,4 @@ node_modules
 frontend/.husky
 frontend/.github
 frontend/.cursor
+frontend/.next
